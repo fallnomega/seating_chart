@@ -1,0 +1,8 @@
+Version 1.1
+4-29-13
+*Added operator<< for print statements
+*Implemented deleting agent from vector since original still had it auto delete the
+ entry used
+
+ 5/11/13
+ *Added edit functions to update name, om, uuid, location, desktop, or monitor

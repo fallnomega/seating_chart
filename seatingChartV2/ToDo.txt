@@ -1,0 +1,10 @@
+4-29-13
+*add move option for people going to different  desks
+*edit members in the variable incase name or om changes DONE
+*enhance app with addition of MFC 
+
+5-11-13
+*enhance app with addition of MFC 
+*add move option for people going to different  desks that checks to 
+make sure to desk doesnt have anyone occupying it and if it does, then 
+to see if that person has a desk move in queue
