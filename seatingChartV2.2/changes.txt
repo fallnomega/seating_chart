@@ -1,0 +1,22 @@
+Version 1.1
+4-29-13
+*Added operator<< for print statements
+*Implemented deleting agent from vector since original still had it auto delete the
+ entry used
+
+ 5/11/13
+ *Added edit functions to update name, om, uuid, location, desktop, or monitor
+
+ 5/22/13
+ *removed ability to update agent profile in regards to location since desk move
+ function will be added to handle that.
+ *added menu option to desk move agent, still need to implement function code
+ to do desk move.
+
+ 6/5/13
+ *added control to ensure desk that employee being moved to is empty.
+ *began desk move process.
+
+ 6/5/13 part II
+ *temp removed control for ensuring empty desk so as to uncomplicate the coding for desk move 
+ *added desk move function
